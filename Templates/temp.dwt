@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#apDiv1 {
+	position:absolute;
+	left:546px;
+	top:49px;
+	width:254px;
+	height:34px;
+	z-index:1;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+	background-color: #666;
+}
+#apDiv2 {
+	position:absolute;
+	left:474px;
+	top:0px;
+	width:326px;
+	height:49px;
+	z-index:2;
+}
+#apDiv3 {
+	position:absolute;
+	left:7px;
+	top:91px;
+	width:360px;
+	height:142px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:7px;
+	top:243px;
+	width:360px;
+	height:156px;
+	z-index:4;
+}
+#apDiv5 {
+	position:absolute;
+	left:374px;
+	top:90px;
+	width:420px;
+	height:309px;
+	z-index:5;
+}
+#apDiv6 {
+	position:absolute;
+	width:191px;
+	height:34px;
+	z-index:6;
+	left: 355px;
+	top: 49px;
+	background-color: #666;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+}
+#apDiv7 {
+	position:absolute;
+	width:177px;
+	height:34px;
+	z-index:7;
+	left: 178px;
+	top: 49px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+	background-color: #666;
+}
+#apDiv8 {
+	position:absolute;
+	width:178px;
+	height:34px;
+	z-index:5;
+	left: 0px;
+	top: 49px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+	background-color: #666;
+}
+</style>
+</head>
+
+<body>
+<!-- TemplateBeginEditable name="gallery" -->
+<div id="apDiv1">
+  <div align="center">
+    <p>Gallery</p>
+  </div>
+</div>
+<!-- TemplateEndEditable --><!-- TemplateBeginRepeat name="RepeatRegion1" -->
+<div id="apDiv2"><img src="../htdocs/logo.png" width="47" height="49" /><img src="../htdocs/images/logo word.jpg" width="258" height="49" /></div>
+<!-- TemplateEndRepeat --><!-- TemplateBeginEditable name="1" -->
+<div id="apDiv3"></div>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="2" -->
+<div id="apDiv4"></div>
+<!-- TemplateEndEditable -->
+<div id="apDiv5"><!-- TemplateBeginEditable name="3" --><!-- TemplateEndEditable --></div>
+<!-- TemplateBeginEditable name="Contact" -->
+<div id="apDiv6">
+  <div align="center">Contact us</div>
+</div>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="other info" -->
+<div id="apDiv7">
+  <div align="center">Other Information</div>
+</div>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="about us" -->
+<div id="apDiv8">
+  <div align="center">About us</div>
+</div>
+<!-- TemplateEndEditable -->
+</body>
+</html>
