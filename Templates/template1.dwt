@@ -91,11 +91,13 @@
 <!-- TemplateBeginEditable name="gallery" -->
 <div id="apDiv1">
   <div align="center">
-    <p>Gallery</p>
+    <p>Service</p>
   </div>
 </div>
 <!-- TemplateEndEditable --><!-- TemplateBeginRepeat name="RepeatRegion1" -->
-<div id="apDiv2"><img src="../htdocs/logo.png" width="47" height="49" /><img src="../htdocs/images/logo word.jpg" width="258" height="49" /></div>
+<div id="apDiv2"><img src="../logo.png" width="47
+
+" height="49" /><img src="../images/logo word.jpg" width="258" height="49" /></div>
 <!-- TemplateEndRepeat --><!-- TemplateBeginEditable name="1" -->
 <div id="apDiv3"></div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="2" -->
@@ -104,15 +106,15 @@
 <div id="apDiv5"></div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="Contact" -->
 <div id="apDiv6">
-  <div align="center">Contact us</div>
+  <div align="center">Contact Us</div>
 </div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="other info" -->
 <div id="apDiv7">
-  <div align="center">Other Information</div>
+  <div align="center">Gallery</div>
 </div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="about us" -->
 <div id="apDiv8">
-  <div align="center">About us</div>
+  <div align="center">Heritage</div>
 </div>
 <!-- TemplateEndEditable -->
 </body>
