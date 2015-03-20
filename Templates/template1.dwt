@@ -21,7 +21,7 @@
 }
 #apDiv2 {
 	position:absolute;
-	left:474px;
+	left:469px;
 	top:0px;
 	width:326px;
 	height:49px;
@@ -83,37 +83,49 @@
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color: #FFF;
 	background-color: #666;
-}
+}td img {display: block;}
+#apDiv9 {
+	position:absolute;
+	left:5px;
+	top:50px;
+	width:792px;
+	height:38px;
+	z-index:6;
+}td img {display: block;}td img {display: block;}td img {display: block;}
 </style>
 </head>
 
 <body>
-<!-- TemplateBeginEditable name="gallery" -->
-<div id="apDiv1">
-  <div align="center">
-    <p>Gallery</p>
-  </div>
+<!-- TemplateBeginRepeat name="Nav Bar" -->
+<div id="apDiv9">
+  <table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="792">
+    <!-- fwtable fwsrc="SUbbuttons.png" fwpage="Page 1" fwbase="Subbuttons.jpg" fwstyle="Dreamweaver" fwdocid = "457754138" fwnested="0" -->
+    <tr>
+      <td><img src="../images/images/spacer.gif" alt="" name="undefined_2" width="198" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../images/images/spacer.gif" alt="" name="undefined_2" width="198" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../images/images/spacer.gif" alt="" name="undefined_2" width="198" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../images/images/spacer.gif" alt="" name="undefined_2" width="198" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../images/images/spacer.gif" alt="" name="undefined_2" width="1" height="1" border="0" id="undefined_2" /></td>
+    </tr>
+    <tr>
+      <td><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','Subbuttons_r1_c1','../images/images/Subbuttons_r1_c1_s2.jpg','../images/images/Subbuttons_r1_c1_s4.jpg',1);" onclick="MM_nbGroup('down','navbar1','Subbuttons_r1_c1','../images/images/Subbuttons_r1_c1_s3.jpg',1);"><img name="Subbuttons_r1_c1" src="../images/images/Subbuttons_r1_c1.jpg" width="198" height="34" border="0" id="Subbuttons_r1_c1" alt="" /></a></td>
+      <td><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','Subbuttons_r1_c2','../images/images/Subbuttons_r1_c2_s2.jpg','../images/images/Subbuttons_r1_c2_s4.jpg',1);" onclick="MM_nbGroup('down','navbar1','Subbuttons_r1_c2','../images/images/Subbuttons_r1_c2_s3.jpg',1);"><img name="Subbuttons_r1_c2" src="../images/images/Subbuttons_r1_c2.jpg" width="198" height="34" border="0" id="Subbuttons_r1_c2" alt="" /></a></td>
+      <td><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','Subbuttons_r1_c3','../images/images/Subbuttons_r1_c3_s2.jpg','../images/images/Subbuttons_r1_c3_s4.jpg',1);" onclick="MM_nbGroup('down','navbar1','Subbuttons_r1_c3','../images/images/Subbuttons_r1_c3_s3.jpg',1);"><img name="Subbuttons_r1_c3" src="../images/images/Subbuttons_r1_c3.jpg" width="198" height="34" border="0" id="Subbuttons_r1_c3" alt="" /></a></td>
+      <td><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','Subbuttons_r1_c4','../images/images/Subbuttons_r1_c4_s2.jpg','../images/images/Subbuttons_r1_c4_s4.jpg',1);" onclick="MM_nbGroup('down','navbar1','Subbuttons_r1_c4','../images/images/Subbuttons_r1_c4_s3.jpg',1);"><img name="Subbuttons_r1_c4" src="../images/images/Subbuttons_r1_c4.jpg" width="198" height="34" border="0" id="Subbuttons_r1_c4" alt="" /></a></td>
+      <td><img src="../images/images/spacer.gif" alt="" name="undefined_2" width="1" height="34" border="0" id="undefined_2" /></td>
+    </tr>
+  </table>
 </div>
-<!-- TemplateEndEditable --><!-- TemplateBeginRepeat name="RepeatRegion1" -->
-<div id="apDiv2"><img src="../htdocs/logo.png" width="47" height="49" /><img src="../htdocs/images/logo word.jpg" width="258" height="49" /></div>
+<!-- TemplateEndRepeat --><!-- TemplateBeginRepeat name="RepeatRegion1" -->
+<div id="apDiv2"><img src="../logo.png" width="47
+
+" height="49" /><img src="../images/logo word.jpg" width="258" height="49" /></div>
 <!-- TemplateEndRepeat --><!-- TemplateBeginEditable name="1" -->
 <div id="apDiv3"></div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="2" -->
 <div id="apDiv4"></div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion9" -->
-<div id="apDiv5"></div>
-<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="Contact" -->
-<div id="apDiv6">
-  <div align="center">Contact us</div>
-</div>
-<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="other info" -->
-<div id="apDiv7">
-  <div align="center">Other Information</div>
-</div>
-<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="about us" -->
-<div id="apDiv8">
-  <div align="center">About us</div>
-</div>
+<div id="apDiv5"> </div>
 <!-- TemplateEndEditable -->
 </body>
 </html>
