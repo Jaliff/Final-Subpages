@@ -121,7 +121,7 @@
 
 " height="49" /><img src="../images/logo word.jpg" width="258" height="49" /></div>
 <!-- TemplateEndRepeat --><!-- TemplateBeginEditable name="1" -->
-<div id="apDiv3"></div>
+<div id="apDiv3"> </div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="2" -->
 <div id="apDiv4"></div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion9" -->
