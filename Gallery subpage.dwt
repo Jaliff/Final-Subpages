@@ -93,13 +93,13 @@
   <div align="center">Gallery</div>
 </div>
 <!-- TemplateEndRepeat --><!-- TemplateBeginRepeat name="RepeatRegion1" -->
-<div id="apDiv2"><img src="logo.png" width="50" height="52" /><img src="file:///Macintosh HD/Users/CTD-01/Desktop/Jennifer-WWW/Final-Subpages/htdocs/images/logo word.jpg" width="258" height="49" /></div>
+<div id="apDiv2"><img src="file:///Macintosh HD/Users/CTD-01/Desktop/Jennifer-WWW/Photography Website/logo.png" width="50" height="52" /><img src="htdocs/images/logo word.jpg" width="258" height="49" /></div>
 <!-- TemplateEndRepeat --><!-- TemplateBeginEditable name="1" -->
-<div id="apDiv3"><img src="GF1.jpeg" width="195" height="148" /></div>
+<div id="apDiv3"><img src="file:///Macintosh HD/Users/CTD-01/Desktop/Jennifer-WWW/Photography Website/GF1.jpeg" width="195" height="148" /></div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="2" -->
-<div id="apDiv4"><img src="GF3.jpg" width="197" height="153" /><img src="grandfatherphoto2.jpg" width="198" height="185" /></div>
+<div id="apDiv4"><img src="file:///Macintosh HD/Users/CTD-01/Desktop/Jennifer-WWW/Photography Website/GF3.jpg" width="197" height="153" /><img src="file:///Macintosh HD/Users/CTD-01/Desktop/Jennifer-WWW/Photography Website/bridalgown.jpeg" width="197" height="276" /><img src="file:///Macintosh HD/Users/CTD-01/Desktop/Jennifer-WWW/Photography Website/grandfatherphoto2.jpg" width="198" height="185" /></div>
 <!-- TemplateEndEditable -->
-<div id="apDiv5"><strong></strong><img src="GF2.jpeg" width="218" height="311" /><img src="grandfatherphoto5.jpg" width="214" height="184" /></div>
+<div id="apDiv5"><strong></strong><img src="file:///Macintosh HD/Users/CTD-01/Desktop/Jennifer-WWW/Photography Website/GF2.jpeg" width="218" height="311" /><img src="file:///Macintosh HD/Users/CTD-01/Desktop/Jennifer-WWW/Photography Website/grandfatherphoto5.jpg" width="214" height="184" /></div>
 <!-- TemplateBeginRepeat name="RepeatRegion4" -->
 <div id="apDiv6">
   <div align="center">Contacts</div>
